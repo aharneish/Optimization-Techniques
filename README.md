@@ -6,4 +6,7 @@ You can find the notes of the course for Optimization Techniques!!
 
 - Classical Optimization
 - Non-Linear Optimization
+- Liner Optimization
+  - Graphical Method 
+  - Simplex Method 
 
