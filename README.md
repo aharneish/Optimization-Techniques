@@ -9,4 +9,6 @@ You can find the notes of the course for Optimization Techniques!!
 - Liner Optimization
   - Graphical Method 
   - Simplex Method 
-
+-using 
+  - python
+  - excel
